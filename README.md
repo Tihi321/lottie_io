@@ -1,0 +1,1 @@
+## Blender lottie exporter plugin
